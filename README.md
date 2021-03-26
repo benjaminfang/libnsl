@@ -1,6 +1,5 @@
-
-See the file COPYING for copying restrictions.
-
+# See the file COPYING for copying restrictions.
+## it repo is from others and consered for python nis module.
 This package contains the libnsl library. This library contains
 the public client interface for NIS(YP) and NIS+.
 
